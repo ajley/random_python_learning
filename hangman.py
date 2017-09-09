@@ -104,7 +104,7 @@ def playHangman():
         print('\nSorry, ' + guess + ' is not in the word')
         print('You have {} wrong guesses left'.format(mistakesLeft))
 
-  print('\nYou didn\'t win this time. The word I choose was: ' + word)
+  print('\nYou didn\'t win this time. The word I selected was: ' + word)
 
 playHangman()
 
